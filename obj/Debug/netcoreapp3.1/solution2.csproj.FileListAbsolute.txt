@@ -1,0 +1,13 @@
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/bin/Debug/netcoreapp3.1/solution2.deps.json
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/bin/Debug/netcoreapp3.1/solution2.runtimeconfig.json
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/bin/Debug/netcoreapp3.1/solution2.runtimeconfig.dev.json
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/bin/Debug/netcoreapp3.1/solution2.dll
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/bin/Debug/netcoreapp3.1/solution2.pdb
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.csproj.AssemblyReference.cache
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.AssemblyInfoInputs.cache
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.AssemblyInfo.cs
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.csproj.CoreCompileInputs.cache
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.dll
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.pdb
+/Users/tsietsielliotsebeko/Projects/solution2/solution2/obj/Debug/netcoreapp3.1/solution2.genruntimeconfig.cache
